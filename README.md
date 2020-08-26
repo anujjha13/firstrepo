@@ -1,2 +1,3 @@
 # firstrepo
-it is y first repository
+it is my first repository
+and i a very happy
